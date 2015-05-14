@@ -4,3 +4,6 @@ c:\users\khoaanguyen\documents\visual studio 2013\Projects\GitChallenge\GitChall
 c:\users\khoaanguyen\documents\visual studio 2013\Projects\GitChallenge\GitChallenge\obj\Debug\GitChallenge.csprojResolveAssemblyReference.cache
 c:\users\khoaanguyen\documents\visual studio 2013\Projects\GitChallenge\GitChallenge\obj\Debug\GitChallenge.exe
 c:\users\khoaanguyen\documents\visual studio 2013\Projects\GitChallenge\GitChallenge\obj\Debug\GitChallenge.pdb
+D:\Test git\Git_Challenge\GitChallenge\bin\Debug\GitChallenge.exe.config
+D:\Test git\Git_Challenge\GitChallenge\obj\Debug\GitChallenge.exe
+D:\Test git\Git_Challenge\GitChallenge\obj\Debug\GitChallenge.pdb
