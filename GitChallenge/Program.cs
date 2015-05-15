@@ -18,19 +18,6 @@ namespace GitChallenge
         private static IList<KeyValuePair<int, string>> _randomizedNickNames { get; set; }
 
 
-
-        private static IList<string> GetNames()
-        {
-            return null;
-        }
-
-
-        private static IList<string> GetNickNames()
-        {
-            return null;
-        }
-
-
         private static IList<KeyValuePair<int, string>> DoRandomizeList(IList<string> list)
         {
             var result = new List<KeyValuePair<int, string>>();
