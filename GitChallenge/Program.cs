@@ -35,6 +35,8 @@ namespace GitChallenge
 			      members.Add("Lieu Chi Quan");
 		        members.Add("Le Minh Y");
 		        members.Add("Huynh Minh Bao");
+            members.Add("Le Quang Tran");
+
             return members;
         }
     }
