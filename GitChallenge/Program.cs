@@ -29,6 +29,7 @@ namespace GitChallenge
 	{
    	    var nickNames = new List<string>();
 	    nickNames.add("ThanhNguyen");
+	    nickNames.add("VinhTruong");
             return nickNames;
 	}	
     }
