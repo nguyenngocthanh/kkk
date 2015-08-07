@@ -31,12 +31,14 @@ namespace GitChallenge
             var members = new List<string>();
 
 
-			      members.Add("Pham Phuoc Nguyen");
-			      members.Add("Lieu Chi Quan");
-		        members.Add("Le Minh Y");
-		        members.Add("Huynh Minh Bao");
-            members.Add("Le Quang Tran");
-	          members.Add("Nguyen Van Tuan");
+		members.Add("Pham Phuoc Nguyen");
+		members.Add("Lieu Chi Quan");
+		members.Add("Le Minh Y");
+		members.Add("Huynh Minh Bao");
+            	members.Add("Le Quang Tran");
+	        members.Add("Nguyen Van Tuan");
+
+		members.Add("Nguyen Ngoc Thanh");
 
             return members;
         }
