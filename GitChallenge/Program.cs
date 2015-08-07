@@ -33,6 +33,7 @@ namespace GitChallenge
    	    nickNames.add("AnhLy");
    	    nickNames.add("luongtruong");
    	    nickNames.add("vo ngoc dung");
+   	    nickNames.add("truong tran");
             return nickNames;
 	}	
     }
