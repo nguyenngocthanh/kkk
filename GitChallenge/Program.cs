@@ -10,7 +10,7 @@ namespace GitChallenge
     {
         static void Main(string[] args)
         {
-            
+
         }
 
 
@@ -23,6 +23,17 @@ namespace GitChallenge
             var result = new List<KeyValuePair<int, string>>();
 
             return result;
+        }
+
+        // --- Function first commit by team 1
+        private static IList<String> GetNames()
+        {
+            var members = new List<string>();
+
+            // --- Ví dụ mẫu : memebers.Add("Hoàng Võ Nhật Khoa");
+
+            
+            return members;
         }
     }
 }
