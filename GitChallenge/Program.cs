@@ -36,9 +36,36 @@ namespace GitChallenge
 		        members.Add("Le Minh Y");
 		        members.Add("Huynh Minh Bao");
             members.Add("Le Quang Tran");
-	           members.Add("Nguyen Van Tuan");
+	          members.Add("Nguyen Van Tuan");
 
             return members;
         }
+
+      	private static IList<string> GetNickNames()
+      	{
+         	    var nickNames = new List<string>();
+         	    nickNames.add("ThanhNguyen");
+         	    nickNames.add("thongleon");
+         	    nickNames.add("AnhLy");
+         	    nickNames.add("luongtruong");
+         	    nickNames.add("vo ngoc dung");
+         	    nickNames.add("truong tran");
+      	      nickNames.add("VinhTruong");
+
+              // --- Update on session 2 -------------------
+              // ___ Nguyen's nick
+
+              // ___ Quan's nick
+
+              // ___ Y's nick
+
+              // ___ Bao's nick
+
+              // ___ Tran's nick
+
+              // ___ Tuan's nick
+
+            return nickNames;
+      	}
     }
 }
