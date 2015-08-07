@@ -30,12 +30,13 @@ namespace GitChallenge
         {
             var members = new List<string>();
 
-            // --- Ví dụ mẫu : members.Add("Hoàng Võ Nhật Khoa");
+
 			      members.Add("Pham Phuoc Nguyen");
 			      members.Add("Lieu Chi Quan");
 		        members.Add("Le Minh Y");
 		        members.Add("Huynh Minh Bao");
             members.Add("Le Quang Tran");
+	           members.Add("Nguyen Van Tuan");
 
             return members;
         }
