@@ -29,14 +29,12 @@ namespace GitChallenge
         private static IList<String> GetNames()
         {
             var members = new List<string>();
-
-
-			      members.Add("Pham Phuoc Nguyen");
-			      members.Add("Lieu Chi Quan");
-		        members.Add("Le Minh Y");
-		        members.Add("Huynh Minh Bao");
+			members.Add("Pham Phuoc Nguyen");
+			members.Add("Lieu Chi Quan");
+		    members.Add("Le Minh Y");
+		    members.Add("Huynh Minh Bao");
             members.Add("Le Quang Tran");
-	           members.Add("Nguyen Van Tuan");
+	        members.Add("Nguyen Van Tuan");
 
             return members;
         }
