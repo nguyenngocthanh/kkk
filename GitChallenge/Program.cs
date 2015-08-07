@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -30,8 +30,9 @@ namespace GitChallenge
         {
             var members = new List<string>();
 
-            // --- Ví dụ mẫu : memebers.Add("Hoàng Võ Nhật Khoa");
-
+            // --- V� d? m?u : memebers.Add("Ho�ng V� Nh?t Khoa");
+		
+		members.Add("Huynh Minh Bao");
             
             return members;
         }
