@@ -28,8 +28,9 @@ namespace GitChallenge
 	private static IList<string> GetNickNames()
 	{
    	    var nickNames = new List<string>();
-	    nickNames.add("ThanhNguyen");
-        nickNames.add("thongleon");
+   	    nickNames.add("ThanhNguyen");
+   	    nickNames.add("thongleon");
+   	    nickNames.add("AnhLy");
             return nickNames;
 	}	
     }
