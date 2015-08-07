@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,7 +34,7 @@ namespace GitChallenge
 			      members.Add("Pham Phuoc Nguyen");
 			      members.Add("Lieu Chi Quan");
 		        members.Add("Le Minh Y");
-
+		        members.Add("Huynh Minh Bao");
             return members;
         }
     }
