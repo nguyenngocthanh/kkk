@@ -24,5 +24,12 @@ namespace GitChallenge
 
             return result;
         }
+
+	private static IList<string> GetNickNames()
+	{
+   	    var nickNames = new List<string>();
+   
+            return nickNames;
+	}	
     }
 }
